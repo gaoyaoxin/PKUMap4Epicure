@@ -2,11 +2,15 @@
  * author: hyc
  * time: 2016-01-13
 */
-/*Í·²¿±³¾°Í¼*/
+/*Í·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¼*/
+#life_swap {
+	width:100% !important;
+}
+
 #life_swap #stop{
 	background:url(../images/common/top_bg/bg_life.jpg) no-repeat center;
 }
-/*ÄÚÈÝ²¿·Ö*/
+/*ï¿½ï¿½ï¿½Ý²ï¿½ï¿½ï¿½*/
 #life_swap .lcontent_swap{
 	width:100%;
 	padding-bottom:40px;
